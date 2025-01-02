@@ -31,7 +31,7 @@ If liquid restaking graph can be generated across stride, quicksilver, persisten
 
 
 New - 
-Parallel Redemption Rate Arbitrage (RRA) Pushing revenue to steady 174% gains in each cycle and more
+# Parallel Redemption Rate Arbitrage (RRA) Pushing revenue to steady 174% gains in each cycle and more
 
 https://docs.google.com/document/d/1Ahr_J1wVs4AqZnBNCPTz1ZLLnnDl0pV2pKAofzVubi0/edit?usp=sharing
 
