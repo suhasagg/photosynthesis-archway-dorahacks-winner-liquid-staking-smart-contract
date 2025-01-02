@@ -29,6 +29,14 @@ This document outlines a strategic approach to liquid staking and redemption cyc
 If liquid restaking graph can be generated across stride, quicksilver, persistence one, parallel redemption rate arbitrage can make massive profits 2x and more (leading to 80 percent revenue growth in short period/run cycle)
 
 
+
+New - 
+Parallel Redemption Rate Arbitrage (RRA) Pushing revenue to steady 174% gains in each cycle and more
+
+https://docs.google.com/document/d/1Ahr_J1wVs4AqZnBNCPTz1ZLLnnDl0pV2pKAofzVubi0/edit?usp=sharing
+
+
+
 3)https://docs.google.com/document/d/13OW7m38MXXMVECGiNCGH7TiVBlGCvIRA/edit?usp=sharing&ouid=102246369981228451498&rtpof=true&sd=true
 
 
