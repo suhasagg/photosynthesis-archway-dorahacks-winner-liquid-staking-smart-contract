@@ -33,6 +33,9 @@ If liquid restaking graph can be generated across stride, quicksilver, persisten
 New - 
 # Parallel Redemption Rate Arbitrage (RRA) Pushing revenue to steady 174% gains in each cycle and more
 
+Parallel Redemption Rate Arbitrage (RRA) uses multi-layer liquid staking protocols (like Stride, Quicksilver, and pSTAKE) on Cosmos to multiply yields by letting each layer’s derivative redemption rate (RR) appreciate from accrued staking rewards and then redeeming from the highest-rate environment. You start by staking your base tokens on one protocol (e.g., Stride), receiving stTokens (e.g., stARCH). You then transfer these stTokens to a second protocol (e.g., Quicksilver) for another layer of liquid staking, potentially adding a third protocol (e.g., Persistence’s pSTAKE) for even more compounding. Each layer’s RR can independently rise (e.g., to 1.4), so stacking them multiplies gains—1.4 × 1.4 = 1.96 (+96%) with two layers, and 1.4 × 1.4 × 1.4 = 2.744 (+174%) with three. By frequently re-staking, rewards are captured and reinvested sooner, accelerating each layer’s RR growth. Once these redemption rates are sufficiently high, you reverse the process (unbonding layer by layer) until your original base tokens are fully redeemed, capturing potentially large compounded returns in a single cycle.
+
+
 https://docs.google.com/document/d/1Ahr_J1wVs4AqZnBNCPTz1ZLLnnDl0pV2pKAofzVubi0/edit?usp=sharing
 
 
